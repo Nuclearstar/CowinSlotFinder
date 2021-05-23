@@ -5,13 +5,13 @@ namespace CowinSlotFinder.CowinRepository
 {
     public class CowinEntities
     {
-		public class SlotDetails
+        public class SlotDetails
         {
-			public string date { get; set; }
-			public string center_name { get; set; }
-			public int available_slots { get; set; }
-			public int pincode { get; set; }
-		}
+            public string date { get; set; }
+            public string center_name { get; set; }
+            public int available_slots { get; set; }
+            public int pincode { get; set; }
+        }
 
         public class Center
         {
