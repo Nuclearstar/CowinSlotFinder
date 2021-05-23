@@ -1,0 +1,13 @@
+﻿{
+  "notificationData": [
+    {
+      "phone": "1234567890",
+      "pincodes": [
+        560001,
+        577101,
+        570009
+      ],
+      "email": "testemailID@gmail.com"
+    }
+  ]
+}
